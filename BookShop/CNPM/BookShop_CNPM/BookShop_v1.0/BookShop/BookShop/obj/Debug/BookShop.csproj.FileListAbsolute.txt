@@ -53,3 +53,6 @@ E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug
 E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
 E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
 E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\mhong\Documents\github\CNPM\BookShop\CNPM\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\mhong\Documents\github\CNPM\BookShop\CNPM\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\mhong\Documents\github\CNPM\BookShop\CNPM\BookShop_CNPM\BookShop_v1.0\BookShop\BookShop\obj\Debug\BookShop.pdb

@@ -1,0 +1,55 @@
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\LongHK\Desktop\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LongHK\Desktop\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\TAI LIEU HOC TAP\Tai lieu hoc ky 6\Cong nghe phan mem\GitHub\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.exe.config
+E:\TAI LIEU HOC TAP\Tai lieu hoc ky 6\Cong nghe phan mem\GitHub\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.exe
+E:\TAI LIEU HOC TAP\Tai lieu hoc ky 6\Cong nghe phan mem\GitHub\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.pdb
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.exe.config
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.exe
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.pdb
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.exe
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.pdb
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.dll
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.xml
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+E:\GitHub\Book-Shop-v1.0\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\mhong\Documents\github\BookShop_CNPM\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\BookShop.exe.config
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.exe
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.pdb
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+F:\CNPM Book Shop\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\BookShop.exe
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\BookShop.pdb
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\EntityFramework.dll
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\EntityFramework.xml
+F:\CNPM Book Shop\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.xml
